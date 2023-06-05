@@ -5,6 +5,9 @@
 // @description  This userscript redirects non-English GitHub Docs pages to their corresponding English pages.
 // @author       toof-jp
 // @match        https://docs.github.com/*
+// @updateURL    https://github.com/toof-jp/redirect-github-docs-to-english/raw/main/main.user.js
+// @downloadURL  https://github.com/toof-jp/redirect-github-docs-to-english/raw/main/main.user.js
+// @supportURL   https://github.com/toof-jp/redirect-github-docs-to-english
 // ==/UserScript==
 
 (function() {
